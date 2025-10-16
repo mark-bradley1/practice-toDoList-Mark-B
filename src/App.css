@@ -1,0 +1,17 @@
+#root {
+  max-width: 1000px;
+  margin: auto;
+  height: ;
+}
+
+div {
+  /*   place-items: center; */
+  margin: none;
+  height: 100% vh;
+  background-color: #84b566;
+  align-items: center;
+}
+
+footer {
+  align-self: flex-end;
+}
