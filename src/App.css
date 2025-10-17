@@ -1,14 +1,13 @@
 #root {
   max-width: 1000px;
   margin: auto;
-  height: ;
 }
 
 div {
   /*   place-items: center; */
-  margin: none;
+  margin: 50px;
   height: 100% vh;
-  background-color: #84b566;
+  background-color: #3145f5;
   align-items: center;
 }
 
